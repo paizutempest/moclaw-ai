@@ -9,8 +9,7 @@ import { table } from "table";
 
 chromium.use(stealth());
 
-// Banner Mewah Biru Laut Khas FS
-// --- UPDATE BANNER MOCLAW OREN-ORENAN ---
+
 function displayBanner() {
     console.clear();
     // Warna oren khas MoClaw (Oren ke Kuning Terang)
