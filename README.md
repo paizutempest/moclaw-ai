@@ -15,7 +15,7 @@
 * **Secure Database**: Menyimpan daftar email sukses ke dalam `moclaw_accounts.json` untuk penggunaan di masa mendatang.
 
 ## 🛠️ INSTALLATION
-Pastikan lu udah install **Node.js** versi terbaru di VPS atau lokal lu.
+Pastikan lu udah install **Node.js** versi terbaru di VPS atau ip local lu.
 
 1. **Clone/Download Project**
 2. **Install Dependencies**
