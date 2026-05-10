@@ -12,7 +12,7 @@ chromium.use(stealth());
 
 function displayBanner() {
     console.clear();
-    // Warna oren khas MoClaw (Oren ke Kuning Terang)
+    
     const moclawOrange = gradient(['#FF4500', '#FF8C00', '#FFD700']);
     console.log(moclawOrange(`
     ███╗   ███╗ ██████╗  ██████╗██╗      █████╗ ██╗    ██╗
